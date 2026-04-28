@@ -1,16 +1,15 @@
 ## Hi there 👋
+I'm Oliver , I'm a programmer, front End I am currently learning and creating projects with
 
-<!--
-**Oliver-Sampa/Oliver-Sampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html image"/>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="Css image"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Oliver stats](https://github-readme-stats.vercel.app/api?username=Oliver)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
